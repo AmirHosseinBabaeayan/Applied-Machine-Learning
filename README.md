@@ -1,4 +1,4 @@
-<b>Applied Machine Learning Course Repository</b>
+<b>Applied Machine Learning Course</b>
 
 This repository contains the course materials for the Applied Machine Learning course taught by Dr. Ehsan Nazerfard at Amirkabir University of Technology.
 
